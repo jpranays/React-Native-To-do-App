@@ -6,7 +6,6 @@
 		"sdkVersion": "37.0.0",
 		"android": {
 			"versionCode": 1,
-			"package": "com.example.myapp"
 		},
 		"orientation": "portrait",
 		"icon": "./assets/icon.png",
