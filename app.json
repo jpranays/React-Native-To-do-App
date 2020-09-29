@@ -1,0 +1,20 @@
+{
+	"expo": {
+		"name": "todo-app",
+		"slug": "todo-app",
+		"version": "1.0.0",
+		"sdkVersion": "37.0.0",
+		"android": {
+			"versionCode": 1,
+			"package": "com.example.myapp"
+		},
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"description": ""
+	}
+}
